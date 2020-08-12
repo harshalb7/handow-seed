@@ -28,5 +28,6 @@
     "dependencies": {
         "handow": "latest",
         "handow-shm": "latest"
+        
     }
 }
